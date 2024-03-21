@@ -11,9 +11,9 @@ html,body {
 }
 
 body {
-  background: #2e2a23;
-  background-image: -webkit-radial-gradient(20% 40%,cover circle, #3e392f, #221e17);
-  background-image: -moz-radial-gradient(20% 40%,contain circle, #3e392f, #221e17);
+  background: #a8aaff;
+  background-image: -webkit-radial-gradient(20% 40%,cover circle, #3cff00, #116343);
+  background-image: -moz-radial-gradient(20% 40%,contain circle, #d835e3, #4c24ff);
   background-repeat: no-repeat;
   position: relative;
 }
